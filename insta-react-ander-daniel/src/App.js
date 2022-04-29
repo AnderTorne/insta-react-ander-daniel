@@ -27,7 +27,7 @@ function App() {
           />
         </div>
         
-        <h1>Instagram Clone</h1>
+        {/* <h1>Instagram Clone</h1> */}
         {
           posts.map(post =>(
             <Post username={post.username} caption={post.caption} imageUrl={post.imageUrl}/>

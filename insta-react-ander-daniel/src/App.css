@@ -11,8 +11,8 @@
   padding: 20px 0px 10px 10px;
   border-bottom: 1px solid lightgray;
   object-fit: contain;
-  
-  }
+  margin-bottom: 30px;
+}
 
   .app_headerImage{
     margin-left: 100px;
